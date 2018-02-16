@@ -1,0 +1,22 @@
+html, body {
+    background-color: blue;
+}
+
+
+.other-news-item {
+	display: inline-block;
+	width: 24%;
+	/*height: 25%;*/
+}
+
+.other-news-item img {
+    object-fit: contain;
+}
+
+nav {
+	display: inline-block;
+}
+
+select { 
+	display: none;
+}
